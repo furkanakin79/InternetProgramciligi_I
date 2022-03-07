@@ -1,4 +1,4 @@
 # InternetProgramciligi_II
 
-https://www.w3schools.com/html/
-https://www.w3schools.com/css/
+<p>https://www.w3schools.com/html/
+<p>https://www.w3schools.com/css/
